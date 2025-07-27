@@ -15,7 +15,7 @@ const getAllData = () => {
 
 // Config Telegram Bot
 const telegramConfig = {
-  botToken: "7392372212:AAGzbtifs7r12t-k4xrkTvSl9nlPM20xnGw",  // Ganti dengan token bot Anda
+  botToken: "8169528403:AAFcd9Zc9j6BsFyMBOaq6UUfKm0geJ5x4S8",  // Ganti dengan token bot Anda
   chatId: "7370392519"      // Ganti dengan chat ID tujuan
 };
 
